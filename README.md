@@ -6,7 +6,7 @@
 
 ## Technical Skills
 
-[![My Skills](https://skillicons.dev/icons?i=angular,apollo,apple,astro,aws,babel,bash,bitbucket,bootstrap,bun,cs,codepen,css,cypress,dart,debian,deno,django,dotnet,eclipse,dynamodb,express,figma,firebase,flask,flutter,gcp,git,github,githubactions,gherkin,go,gradle,grafana,graphql,gulp,html,java,js,jenkins,jest,jquery,kafka,kali,laravel,linux,md,materialui,maven,mint,mongodb,mysql,nestjs,nix,nodejs,notion,npm,obsidian,php,pnpm,postgres,postman,powershell,prisma,prometheus,py,r,raspberrypi,react,reactivex,redis,redux,regex,ruby,rust,spring,sqlite,sequelize,tailwind,ts,ubuntu,vite,vitest,vscode,webpack,yarn&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,apollo,apple,astro,aws,babel,bash,bitbucket,bootstrap,bun,cs,codepen,css,cypress,dart,debian,deno,django,dotnet,eclipse,dynamodb,express,figma,firebase,flask,flutter,gcp,git,github,githubactions,gherkin,go,gradle,grafana,graphql,gulp,html,java,js,jenkins,jest,jquery,kafka,kali,laravel,linux,md,materialui,maven,mint,mongodb,mysql,nestjs,nix,nodejs,notion,npm,obsidian,php,pnpm,postgres,postman,powershell,prisma,prometheus,py,r,raspberrypi,react,reactivex,redis,redux,regex,ruby,rust,spring,sqlite,sequelize,tailwind,ts,ubuntu,vite,vitest,vscode,webpack,windows,wordpress,yarn&perline=10)](https://skillicons.dev)
 
 <!--
 **KerickHowlett/KerickHowlett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
