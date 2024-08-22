@@ -40,11 +40,7 @@
 
 ### Other Developer Tools
 
-[![My Skills](https://skillicons.dev/icons?i=reactivex,git,github,regex,vim,neovim,grafana,prometheus,bitbucket,gitlab&perline=8&theme=dark)](https://skillicons.dev)
-
-### Applications
-
-[![My Skills](https://skillicons.dev/icons?i=vscode,vscodium,codepen,idea,eclipse,androidstudio,atom&perline=8&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=reactivex,git,github,regex,vim,neovim,grafana,prometheus,bitbucket,gitlab,vscode,vscodium,codepen,idea,eclipse,atom&perline=8&theme=dark)](https://skillicons.dev)
 
 <!--
 **KerickHowlett/KerickHowlett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
